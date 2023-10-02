@@ -58,9 +58,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/marouane-m7b/count.svg?"  />
-</div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=marouane-m7b&label=Profile%20views&color=0e75b6&style=flat" alt="marouane-m7b" /> </div>
 
 ###
 
