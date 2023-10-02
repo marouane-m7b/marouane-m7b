@@ -53,9 +53,9 @@
 <h6 align="left">I'm Marouane Mahboub from Morocco, a Fullstack Developer who started learning in 2021.<br><br>- 🔭 I’m working as E-commerce store<br>- 📚 I'm currently learning React Js ⚛️<br>- ⚡ In my free time I go to the gym</h6>
 
 ###
-
+<!---
 <h3 align="left">👀 Profile Views</h3>
-
+--->
 ###
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=marouane-m7b&label=Profile%20views&color=0e75b6&style=flat" alt="marouane-m7b" /> </div>
