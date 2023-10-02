@@ -127,7 +127,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/marouane-m7b/marouane-m7b/output/snake.svg" alt="Snake animation" />
-
-###
