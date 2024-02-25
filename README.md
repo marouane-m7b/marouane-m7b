@@ -49,10 +49,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<h6 align="left">I'm Marouane Mahboub from Morocco, a Fullstack Developer who started learning in 2021.<br><br>- 🔭 I’m working as E-commerce store<br>- 📚 I'm currently learning React Js ⚛️<br>- ⚡ In my free time I go to the gym</h6>
-
-###
 <!---
 <h3 align="left">👀 Profile Views</h3>
 --->
