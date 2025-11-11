@@ -89,11 +89,11 @@ const marouane = {
 📅 Nov 2025 - Present  
 
 **Key Courses:**
-- Algorithmique et Structures de Données avec Python
-- Programmation Orientée Objet (Java)
 - Intelligence Artificielle
-- Big Data
 - Deep Learning Avancé et Applications
+- Programmation Distribuée et Middlewares
+- Natural Language Processing (NLP)
+- Blockchain et Confiance Numérique
 
 </td>
 <td width="33%">
