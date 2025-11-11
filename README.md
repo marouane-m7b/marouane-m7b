@@ -158,7 +158,7 @@ const marouane = {
 
 
 
-## 🎯 Competitive Programming
+### 🎯 **Competitive Programming**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/marouane-m7b)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/marouane_ma7boub)
