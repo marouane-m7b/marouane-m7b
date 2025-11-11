@@ -15,7 +15,6 @@
 <br/>
 
 ### 🏆 **#1 Ranked in Morocco - WorldSkills Web Technologies 2025**
-### 🎯 **Top 4 Candidate for WorldSkills Shanghai 2026**
 
 </div>
 
@@ -37,7 +36,6 @@ const marouane = {
     learning: ["Spring Boot", "AI & Machine Learning", "LLMs"],
     expertise: ["React.js", "React Native", "Laravel", "Spring Boot"],
     askMeAbout: ["Web Development", "Mobile Apps", "System Architecture"],
-    funFact: "I teach React while building production apps! 🎯"
 };
 ```
 
@@ -157,6 +155,13 @@ const marouane = {
 ### 📋 **Methodologies**
 ![Scrum](https://img.shields.io/badge/Scrum-%23009688.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23239120.svg?style=for-the-badge&logo=agile&logoColor=white)
+
+
+
+## 🎯 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/marouane-m7b)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/marouane_ma7boub)
 
 </div>
 
@@ -312,17 +317,6 @@ Training & support tracking for companies
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=marouane-m7b&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## 🎯 Competitive Programming
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/marouane-m7b)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/marouane_ma7boub)
 
 </div>
 
