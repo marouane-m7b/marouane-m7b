@@ -81,7 +81,22 @@ const marouane = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+
+### **Master**
+**ENSET Mohammedia - Systèmes Distribués et Intelligence Artificielle (SDIA)**  
+📍 Mohammedia, Morocco  
+📅 Nov 2025 - Present  
+
+**Key Courses:**
+- Algorithmique et Structures de Données avec Python
+- Programmation Orientée Objet (Java)
+- Intelligence Artificielle
+- Big Data
+- Deep Learning Avancé et Applications
+
+</td>
+<td width="33%">
 
 ### **Licence Professionnelle**
 **Université Chouaïb Doukkali**  
@@ -97,7 +112,7 @@ const marouane = {
 - Information Security
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### **Diplôme de Technicien Spécialisé**
 **ISTA Sidi Moumen**  
